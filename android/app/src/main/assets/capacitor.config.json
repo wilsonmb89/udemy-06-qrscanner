@@ -1,0 +1,8 @@
+{
+  "appId": "com.wilsonapps.qrscannerapp",
+  "appName": "qrscannerApp",
+  "bundledWebRuntime": false,
+  "npmClient": "npm",
+  "webDir": "www",
+  "cordova": {}
+}
